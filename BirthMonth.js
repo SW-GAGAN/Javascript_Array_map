@@ -13,4 +13,4 @@ for(i=1;i<=50;i++){
 let month=randomDate(new Date(1992, 2, 1), new Date(1994, 1, 1));
 birthArray[month]=birthArray[month]+1;
 }
-console.log(birthArray)
+console.log(birthArray);
